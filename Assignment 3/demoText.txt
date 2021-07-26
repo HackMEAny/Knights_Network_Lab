@@ -1,0 +1,11 @@
+This transfer all kinds of file.. From .txt to .mp4!!
+
+Method of run : 
+
+java FServer <PORT_NUMBER> : java FServer 2000
+java FClient <IP_ADRESS> <PORT_NUMBER> : java FClient 127.0.0.1 2000
+
+
+Note:
+1. File request send from client, the Server on the other end must have that file with same name..
+2. File in Client will be saved with myFileName.ext
